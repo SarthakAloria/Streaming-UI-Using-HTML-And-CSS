@@ -47,7 +47,7 @@ It demonstrates hover effects, responsive layouts for mobile/tablet/desktop, and
 
 
 ---
-## 🚀 Usage / Example
+## 🚀 Usage
 
 Once the homepage is open (locally or via GitHub Pages):
 
@@ -71,11 +71,13 @@ The homepage displays a clean, responsive streaming UI with the following highli
 
 ### Screenshots
 
-![Homepage Desktop](/assets/screenshots/desktop.png)  
-![Homepage Mobile](/assets/screenshots/mobile.jpg)  
+Desktop view:
+<img src="assets/screenshots/desktop.png" alt="Homepage Desktop" width="800"/>
+
+Mobile view:
+<img src="assets/screenshots/mobile.jpg" alt="Homepage Mobile" width="300"/>
 
 > You can view the **live demo** here: [Click here](https://sarthakaloria.github.io/Streaming-UI-Using-HTML-And-CSS/)
-
 
 
 ---
